@@ -19,7 +19,7 @@ Design tasks that each of the personas described previously may wish to complete
 ## Exercise 2: Usability Analysis
 Open TicketMaster on your mobile phone, tablet or computer (depending on what is most relevant to the context of your first task) (http://www.ticketmaster.co.uk/). 
 
-Using the spreadsheet provided on the VLE and the Petrie and Power Heuristics, complete each of the tasks for your personas. (Only up to the point of booking a ticket, don’t pay for anything!) 
+Using the spreadsheet provided in this repo and the Petrie and Power Heuristics (on the VLE), complete each of the tasks for your personas. (Only up to the point of booking a ticket, don’t pay for anything!) 
 
 At each point in the task, analyse the website’s usability and note down any problems that you encounter through simple statements that describe the problem. Record which of the Petrie and Power web usability heuristics each usability problem violates.
 
