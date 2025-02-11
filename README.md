@@ -1,8 +1,6 @@
-# Practical7
+# Week 6 Practical 1: Good vs. Bad Visual Design
 
-Today you’re going to be working in pairs or 3s to conduct a usability analysis of TicketMaster, using the Petrie and Power web usability heuristics.
-
-When conducting a formal usability analysis, the first step is usually to construct a persona. A couple of personas have been provided for you below. You may choose to expand on these if you wish.
+In this practical, you will apply your knowledge of visual perception to analyse the visual design of a handful of websites.
 
 ## Personas
 ### Harriet
